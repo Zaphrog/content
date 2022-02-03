@@ -140,7 +140,7 @@ trArray[3].style.background = "red";
 ## The innerHTML
 ***
 
-As you already know, each element in the HTML document can have some sort of HTML content.  It does not matter if it is a `<P>`, `<DIV>`,`<A>` or any other HTML element; it can have its own innerHTML combined with more HTML content.
+As you already know, each element in the HTML document can have some sort of HTML content.  It does not matter if it is a `<p>`, `<div>`,`<a>` or any other HTML element; it can have its own innerHTML combined with more HTML content.
 
 ![what is dom](../../assets/images/2387325b-338c-4c18-bb0f-2f95ed28901f.png)
 
